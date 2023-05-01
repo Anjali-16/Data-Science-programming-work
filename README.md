@@ -7,6 +7,11 @@ It contains the the projects that i solved with supervised machine learning algo
 Each folder contains a particular algorithim and its application on a particualr data set
 
 
+Assignment Business problem statement :  We know how dreadful cancer is. It involves various stages of treatment. It is really important to analyse the results of treatment after the patient undergo the treatment . There are various factors that influence the treatment such as age, gender, Time, No of warts . These are my predictors and target variable is Result of treatment. I applies all the algorithims discussed in this course and evalute the model .  
+
+Walk through the Assignment 1, 2 Cryptotheraphy analysis folder to see my work and my model performance results.The data set is collected from UCI Machine learning repository. The data set is about the results of treatment of 90 patients. It is included in the folder.
+
+
 Week 1: Introduction to Data science and Machine learning:
 
 I have learnt the basics of the data science and basic terms and end to end process in Machine learning. I got introduced to jupyter lab Environment and learnt the basics of Jupyter lab about markdown, syntax of printing image in markdown. I worked on data cleaning part and preprocessing the data and make the data ready for modleing. I have understood the concept of one hot encoding and dummy encoding and applied to the airbnb data set.
@@ -42,5 +47,9 @@ I got introduced to the concept of deep neural networks. In this i learnt the Ke
 
 Week 9 : CNN (Convolution Neural Networks):  I understoood the concept of CNN and applied to the images that contains different apples. I evaluted the perfromance of the model.
 
-Week 10 : RNN (Recurrent Neural networks) : I undertood the concept of the Timeseries and sequential analysis. I have taken 
+Week 10 : RNN (Recurrent Neural networks) : I undertood the concept of the Timeseries and sequential analysis. I have taken the PAPA JOHNS stock data for 100 days i used RNN modles LSTM, Conv 1d by storing the sequences for 9 days and predicted the 10 th day stock price and evaluted how differnet RNN models perform.
 
+Week 11:  Autoencoders  I understood the concept of autoencoders and applied to mnist data set and also created new images of 5 with my first letter of my name and trained the model well and reconstructed mnist data set digits  and also my new images.
+
+
+Note:   Each notebook contains the markup and also the analysis pf reuslts that i observed . The folder name is easily understandable. Walk through the notebooks for furthur insights.

@@ -52,4 +52,4 @@ Week 10 : RNN (Recurrent Neural networks) : I undertood the concept of the Times
 Week 11:  Autoencoders  I understood the concept of autoencoders and applied to mnist data set and also created new images of 5 with my first letter of my name and trained the model well and reconstructed mnist data set digits  and also my new images.
 
 
-Note:   Each notebook contains the markup and also the analysis pf reuslts that i observed . The folder name is easily understandable. Walk through the notebooks for furthur insights.
+Note:   Each notebook contains the markup and also the analysis of reuslts that i observed . The folder name is easily understandable. Walk through the notebooks for furthur insights.

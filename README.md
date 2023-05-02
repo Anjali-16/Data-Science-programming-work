@@ -1,55 +1,49 @@
 # Data-Science-programming-work
 
-This repository contains about the mini projects, inclass execerses, and weekly exercises that i have done in my data science programming course.
+This repository contains information about the mini-projects, in-class exercises, and weekly exercises that I have done in my data science programming course.
 
-It contains the the projects that i solved with supervised machine learning algorithims, neural networks , Auto encoders.
+It contains the projects that I solved with supervised machine learning algorithms, neural networks, and auto-encoders.
 
-Each folder contains a particular algorithim and its application on a particualr data set
+Each folder contains a particular algorithm and its application to a particular data set.
 
+Assignment Business problem statement: We know how dreadful cancer is. It involves various stages of treatment. It is really important to analyze the results of treatment after the patient undergoes it. There are various factors that influence the treatment, such as age, gender, time, and number of warts. These are my predictors, and my target variable is the result of treatment. I apply all the algorithms discussed in this course and evaluate the model.
 
-Assignment Business problem statement :  We know how dreadful cancer is. It involves various stages of treatment. It is really important to analyse the results of treatment after the patient undergo the treatment . There are various factors that influence the treatment such as age, gender, Time, No of warts . These are my predictors and target variable is Result of treatment. I applies all the algorithims discussed in this course and evalute the model .  
+Walk through the Assignment 1 and 2 cryptography analysis folders to see my work and my model performance results. The data set was collected from the UCI machine learning repository. The data set is about the results of treatment for 90 patients. It is included in the folder.
 
-Walk through the Assignment 1, 2 Cryptotheraphy analysis folder to see my work and my model performance results.The data set is collected from UCI Machine learning repository. The data set is about the results of treatment of 90 patients. It is included in the folder.
+Week 1: Introduction to Data Science and Machine Learning
 
+I have learned the basics of data science, basic terms, and the end-to-end process of machine learning. I got introduced to the Jupyter Lab environment and learned the basics of Jupyter Lab markdown and the syntax of printing images in markdown. I worked on the data cleaning part, preprocessing the data, and making the data ready for modeling. I have understood the concepts of one-hot encoding and dummy encoding and applied them to the AirBnB data set.
 
-Week 1: Introduction to Data science and Machine learning:
+Week 2: Regression:
 
-I have learnt the basics of the data science and basic terms and end to end process in Machine learning. I got introduced to jupyter lab Environment and learnt the basics of Jupyter lab about markdown, syntax of printing image in markdown. I worked on data cleaning part and preprocessing the data and make the data ready for modleing. I have understood the concept of one hot encoding and dummy encoding and applied to the airbnb data set.
+I was introduced to regression techniques. I became strong in the concepts of simple linear regression, multivariable linear regression, polynomial regression, and logistic regression. I applied to the AirBnB data set. I observed how each regression performed on the data set. I also experimented by creating a DTAA set, adding some noise, and experiencing it. I also got introduced to the topics of regularization techniques called Ridge regression, Lasso regression, early stopping, elastic net, and l2_l1.
 
+Week 3: Support vector machines
 
-Week 2:  Regression:
+This week I went through the process of how SVM works and the three different types of kernels in SVM: linear, RBF, and polynomial. I understood the difference between SVM and logistic regression. I applied SVM to riding mowers and the cancer treatment data set. I evaluated the performance of each model. I created a web interface for my model so that when we enter the input, we can get whether the owner will get the owner or not.
 
-I got introduced to regression techniques . I became strong in the concepts of simple linear regression, multivariable linear regression, polynomial regression and logistic regression. I applied to the airbnb data set . I observed how the each regression performs on data set . I also experimented by creating a dtaa set and added some noise and experiemnted it. I also got introduced to the topics of regularization techniques called Ridge regression, Lasso regression, early stopping, elasticnet, l2_l1.
+Week 4: Decision Trees:
 
+I understood the concepts of decision trees, variance, entropy, the Gini index, and hyperparameter tuning techniques like grid search CV and random search CV. I applied decision trees to the universal bank data set and evaluated the performance of my model.
 
-Week 3:  Support vector machines.
+Week 5: Ensemble Techniques:
 
-In this week I went through the process of how svm works and the three differnet types of kernel in SVM linear, RBF, Polynomial . I understood the differnece between svm and logistic regression. I applied SVM to riding mowers , cancer treatment data set. I evaluted the performance of each model. I created web interface for my model so that when we enter the input we can get whether the the owner will get the ownership or not. 
+I got introduced to various assembly techniques like bagging and boosting. Random forest, Ada boost, and XGboost techniques I applied these techniques to a data set and observed the performance of each model.
 
-Week 4: Decision trees:
+Week 6: Text Mining This is an interesting topic that I enjoyed. I was introduced to lemmatization and tokenization techniques. IDF, POS tagging, etc. I applied the technique called single value decomposition, refined the technique called early stopping, and evaluated the model's performance.
 
-I understood the concepts of decison trees bais, variance, entropy, gini index and hyperparameter tuning grid search cv, random search cv. I applied decision trees to universal bank data set and evalute the performnace of my model.
+Week 7: Neural networks:
 
-Week 5 : Ensemble techniques:
-
-I got introduced to various ensembling techniques like bagging and boosting. Random forest, Ada boost, XGboost techniques. I applied these techniques to data set and observed the performance of each models.
-
-Week 6 : Text Mining
-This is one interesting topic that I enjoyed. I got introduced to Lemmatization and tokenisation techniques. IDF, POS tagging etc. I applied the technique called Single value decomposition, reqularised technique called early stopping to NEWS data set and evaluted the model performance .
-
-Week 7 : Neural networks:
-
-I got introduced to the basic concepts of neural networks and got familirized with perceptrons, simple ANN. I applid the concept of using MLP classifier to hand written digits data set and evaluted the model performance.
+I was introduced to the basic concepts of neural networks and became familiar with perceptrons and simple ANN. I applied the concept of using an MLP classifier to a handwritten digit data set and evaluated the model's performance.
 
 Week 8: Deep neural networks:
 
-I got introduced to the concept of deep neural networks. In this i learnt the Keras library  and tensorflow frmmework and applied to handwritten data set and observed the perfromance of model on my data set.
+I was introduced to the concept of deep neural networks. In this, I learned about the Keras library and Tensorflow framework, applied them to a handwritten data set, and observed the performance of the model on my data set.
 
-Week 9 : CNN (Convolution Neural Networks):  I understoood the concept of CNN and applied to the images that contains different apples. I evaluted the perfromance of the model.
+Week 9: CNN (Convolutional Neural Networks): I understood the concept of CNN and applied it to the images that contained different apples. I evaluated the performance of the model.
 
-Week 10 : RNN (Recurrent Neural networks) : I undertood the concept of the Timeseries and sequential analysis. I have taken the PAPA JOHNS stock data for 100 days i used RNN modles LSTM, Conv 1d by storing the sequences for 9 days and predicted the 10 th day stock price and evaluted how differnet RNN models perform.
+Week 10: RNN (recurrent neural networks): I understood the concept of time series and sequential analysis. I have taken the PAPA JOHNS stock data for 100 days, used RNN models LSTM and Conv 1d by storing the sequences for 9 days, predicted the 10th-day stock price, and evaluated how different RNN models perform.
 
-Week 11:  Autoencoders  I understood the concept of autoencoders and applied to mnist data set and also created new images of 5 with my first letter of my name and trained the model well and reconstructed mnist data set digits  and also my new images.
+Week 11: Autoencoders I understood the concept of autoencoders and applied it to the MNIST data set. I also created new images of 5 with the first letter of my name, trained the model well, and reconstructed the MNIST data set digits and my new images.
 
-
-Note:   Each notebook contains the markup and also the analysis of reuslts that i observed . The folder name is easily understandable. Walk through the notebooks for furthur insights.
+Note: Each notebook contains the markup and also the analysis of references that I observed. The folder name is easily understandable. Walk through the notebooks for further insights.
